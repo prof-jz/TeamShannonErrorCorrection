@@ -4,6 +4,16 @@
 
 This guide walks you through running the program from scratch on **Mac** or **Windows PC**, even if you've never used Python or VS Code before.
 
+This code is a demonstration of using machine learning to train to decipher a corrupted message originating from a noisy channel.  We assume that we are able to do this training via autoencoder - that is, the AI transmits a series of known messages across the noisy channel, recieves the bit-altered output from the channel, and learns to compensate for the noise.  After training in this way, the AI can successfully decipher a corrupted output without having the input as reference.
+
+This was a project for Dr. Donna Schaffer's IT 797 "The AI Era" course at Marymount University (Arlington, Virginia, USA) for the Spring 2026 semester.
+
+Lead Developer:  Michael Raskovski
+Developer: Maranda Xiong         
+Tester: Callistus Onwuka
+Paper Editor: John Zehnpfennig II
+Videographer: Joseph Broghamer
+
 ---
 
 ## PART 1 — Install Python
