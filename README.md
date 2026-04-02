@@ -9,9 +9,13 @@ This code is a demonstration of using machine learning to train to decipher a co
 This was a project for Dr. Donna Schaffer's IT 797 "The AI Era" course at Marymount University (Arlington, Virginia, USA) for the Spring 2026 semester.
 
 Lead Developer:  Michael Raskovski
+
 Developer: Maranda Xiong         
+
 Tester: Callistus Onwuka
+
 Paper Editor: John Zehnpfennig II
+
 Videographer: Joseph Broghamer
 
 ---
